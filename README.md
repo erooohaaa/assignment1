@@ -22,5 +22,5 @@ Assingment1/
 ├── Images/
 │ └── photo.jpeg
 ## 🛠️ Technologies
-- HTML5  
+- HTML  
 - Git & GitHub Pages  
